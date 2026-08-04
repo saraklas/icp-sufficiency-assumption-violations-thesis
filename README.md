@@ -17,20 +17,34 @@ parent (89), a null control (83), and a benign violation in System 2 (95).
 ICP is run with `lmICP` and `rangerICP` from the **tramicp** package
 (GCM invariance tests, α = 0.05).
 
+## Repository structure
+
+```
+notebooks/   Jupyter notebooks (.ipynb)
+html/        rendered HTML exports of the notebooks
+data/        generated datasets and replication results
+```
+
 ## Notebooks
 
-The analyses were run in Jupyter notebooks; this repository contains their
-**HTML exports** (the original `.ipynb` files live on a university JupyterHub
-server).
+| Notebook | Contents |
+|---|---|
+| `Sufficient_system_sample_from_Station_5_only_using_G5` | Data generation: sampling the sufficient system from Station 5 using G⁵ only; replication loop over seeds. |
+| `ICP_on_the_two_Station_5_systems` | ICP analysis on both subsystems (DAG/ADMG graphs, single-sample runs, replication over 20 seeds with selection frequencies). |
+
+Each notebook is available as an executable `.ipynb` file in `notebooks/` and
+as a rendered HTML export in `html/`. GitHub displays HTML files as source
+code; to view a rendered export, either download it and open it in a browser,
+or use `https://htmlpreview.github.io/?<raw-file-URL>`.
+
+## Data
 
 | File | Contents |
 |---|---|
-| `html/Sufficient_system_sample_from_Station_5_only_using_G5.html` | Data generation: sampling the sufficient system from Station 5 using G⁵ only; replication loop over seeds. |
-| `html/ICP_on_the_two_Station_5_systems.html` | ICP analysis on both subsystems (DAG/ADMG graphs, single-sample runs, replication over 20 seeds with selection frequencies). |
-
-GitHub displays HTML files as source code. To view a rendered notebook, either
-download the file and open it in a browser, or use
-`https://htmlpreview.github.io/?<raw-file-URL>`.
+| `data/station5_system1.csv` | Main System 1 sample (seed 2026, n = 5000; nodes 87, 82, 89, 83, 84, 86). |
+| `data/station5_system2.csv` | Main System 2 sample (seed 2026, n = 5000; nodes 85, 94, 95, 90, 91, 97, 93, 92). |
+| `data/seeds_tar.gz` | 50 replicate datasets per system (seeds 1–50, n = 5000 each; 100 CSV files). |
+| `data/results_seedloop.csv` | Long-format replication results: per seed, scenario, method, and predictor, whether the predictor was selected and whether the ICP output was empty. |
 
 ## Dependencies
 
