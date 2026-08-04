@@ -1,0 +1,681 @@
+"seed","scenario","method","predictor","selected","empty"
+1,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+1,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+1,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+1,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+1,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+1,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+1,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+1,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+1,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+1,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+1,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+1,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+1,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+1,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+1,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+1,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+1,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+1,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+1,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+1,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+1,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+1,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+1,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+1,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+1,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+1,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+1,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+1,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+1,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+2,"sys1 baseline","lmICP","Station5_mp_82",FALSE,TRUE
+2,"sys1 baseline","lmICP","Station5_mp_89",FALSE,TRUE
+2,"sys1 baseline","lmICP","Station5_mp_83",FALSE,TRUE
+2,"sys1 baseline","lmICP","Station5_mp_86",FALSE,TRUE
+2,"sys1 baseline","rangerICP","Station5_mp_82",FALSE,TRUE
+2,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,TRUE
+2,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,TRUE
+2,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,TRUE
+2,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,FALSE
+2,"sys1 hide 82","lmICP","Station5_mp_83",TRUE,FALSE
+2,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,FALSE
+2,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,FALSE
+2,"sys1 hide 82","rangerICP","Station5_mp_83",TRUE,FALSE
+2,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,FALSE
+2,"sys1 hide 89","lmICP","Station5_mp_82",FALSE,FALSE
+2,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+2,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+2,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,FALSE
+2,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+2,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+2,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+2,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+2,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+2,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+2,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+2,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+2,"sys2 (U = 95)","lmICP","Station5_mp_90",TRUE,FALSE
+2,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+2,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+2,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+2,"sys2 (U = 95)","rangerICP","Station5_mp_90",TRUE,FALSE
+2,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+2,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+2,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+3,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+3,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+3,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+3,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+3,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+3,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+3,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+3,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+3,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+3,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+3,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+3,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+3,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+3,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+3,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+3,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+3,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+3,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+3,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+3,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+3,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+3,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+3,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+3,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+3,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+3,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+3,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+3,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+3,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+4,"sys1 baseline","lmICP","Station5_mp_82",FALSE,TRUE
+4,"sys1 baseline","lmICP","Station5_mp_89",FALSE,TRUE
+4,"sys1 baseline","lmICP","Station5_mp_83",FALSE,TRUE
+4,"sys1 baseline","lmICP","Station5_mp_86",FALSE,TRUE
+4,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+4,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+4,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+4,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+4,"sys1 hide 82","lmICP","Station5_mp_89",TRUE,FALSE
+4,"sys1 hide 82","lmICP","Station5_mp_83",TRUE,FALSE
+4,"sys1 hide 82","lmICP","Station5_mp_86",TRUE,FALSE
+4,"sys1 hide 82","rangerICP","Station5_mp_89",TRUE,FALSE
+4,"sys1 hide 82","rangerICP","Station5_mp_83",TRUE,FALSE
+4,"sys1 hide 82","rangerICP","Station5_mp_86",TRUE,FALSE
+4,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+4,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+4,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+4,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+4,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+4,"sys1 hide 89","rangerICP","Station5_mp_86",TRUE,FALSE
+4,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+4,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+4,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+4,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+4,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+4,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+4,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+4,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+4,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+4,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+4,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+4,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+4,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+4,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+5,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+5,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+5,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+5,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+5,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+5,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+5,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+5,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+5,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+5,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+5,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+5,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+5,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+5,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+5,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+5,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+5,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+5,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+5,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+5,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+5,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+5,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+5,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+5,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+5,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+5,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+5,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+5,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+5,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+6,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+6,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+6,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+6,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+6,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+6,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+6,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+6,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+6,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+6,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+6,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+6,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+6,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+6,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+6,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+6,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+6,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+6,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+6,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+6,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+6,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+6,"sys2 (U = 95)","lmICP","Station5_mp_90",TRUE,FALSE
+6,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+6,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+6,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+6,"sys2 (U = 95)","rangerICP","Station5_mp_90",TRUE,FALSE
+6,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+6,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+6,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+7,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+7,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+7,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+7,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+7,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+7,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+7,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+7,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+7,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+7,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+7,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+7,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+7,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+7,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+7,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+7,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+7,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+7,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+7,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+7,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+7,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+7,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+7,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+7,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+7,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+7,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+7,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+7,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+7,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+8,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+8,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+8,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+8,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+8,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+8,"sys1 baseline","rangerICP","Station5_mp_89",TRUE,FALSE
+8,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+8,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+8,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+8,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+8,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+8,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+8,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+8,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+8,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+8,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+8,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+8,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,TRUE
+8,"sys1 hide 89","rangerICP","Station5_mp_83",FALSE,TRUE
+8,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,TRUE
+8,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+8,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+8,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+8,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+8,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+8,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+8,"sys2 (U = 95)","lmICP","Station5_mp_90",TRUE,FALSE
+8,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+8,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+8,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+8,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+8,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+8,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+8,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+9,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+9,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+9,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+9,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+9,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+9,"sys1 baseline","rangerICP","Station5_mp_89",TRUE,FALSE
+9,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+9,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+9,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+9,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+9,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+9,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+9,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+9,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+9,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+9,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+9,"sys1 hide 89","lmICP","Station5_mp_86",TRUE,FALSE
+9,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,TRUE
+9,"sys1 hide 89","rangerICP","Station5_mp_83",FALSE,TRUE
+9,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,TRUE
+9,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+9,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+9,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+9,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+9,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+9,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+9,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+9,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+9,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+9,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+9,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+9,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+9,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+9,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+10,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+10,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+10,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+10,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+10,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+10,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+10,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+10,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+10,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+10,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+10,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+10,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+10,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+10,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+10,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+10,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+10,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+10,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+10,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+10,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+10,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+10,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+10,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+10,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+10,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+10,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+10,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+10,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+10,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+11,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+11,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+11,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+11,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+11,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+11,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+11,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+11,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+11,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+11,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+11,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+11,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+11,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+11,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+11,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+11,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+11,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+11,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+11,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+11,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+11,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+11,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+11,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+11,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+11,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+11,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+11,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+11,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+11,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+12,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+12,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+12,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+12,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+12,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+12,"sys1 baseline","rangerICP","Station5_mp_89",TRUE,FALSE
+12,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+12,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+12,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+12,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+12,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+12,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+12,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+12,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+12,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+12,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+12,"sys1 hide 89","lmICP","Station5_mp_86",TRUE,FALSE
+12,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,TRUE
+12,"sys1 hide 89","rangerICP","Station5_mp_83",FALSE,TRUE
+12,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,TRUE
+12,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+12,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+12,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+12,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+12,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+12,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+12,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+12,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+12,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+12,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+12,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+12,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+12,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+12,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+13,"sys1 baseline","lmICP","Station5_mp_82",FALSE,TRUE
+13,"sys1 baseline","lmICP","Station5_mp_89",FALSE,TRUE
+13,"sys1 baseline","lmICP","Station5_mp_83",FALSE,TRUE
+13,"sys1 baseline","lmICP","Station5_mp_86",FALSE,TRUE
+13,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+13,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+13,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+13,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+13,"sys1 hide 82","lmICP","Station5_mp_89",TRUE,FALSE
+13,"sys1 hide 82","lmICP","Station5_mp_83",TRUE,FALSE
+13,"sys1 hide 82","lmICP","Station5_mp_86",TRUE,FALSE
+13,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+13,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+13,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+13,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+13,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+13,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+13,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+13,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+13,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+13,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+13,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+13,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+13,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+13,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+13,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+13,"sys2 (U = 95)","lmICP","Station5_mp_90",TRUE,FALSE
+13,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+13,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+13,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+13,"sys2 (U = 95)","rangerICP","Station5_mp_90",TRUE,FALSE
+13,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+13,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+13,"sys2 (U = 95)","rangerICP","Station5_mp_93",TRUE,FALSE
+14,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+14,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+14,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+14,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+14,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+14,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+14,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+14,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+14,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+14,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+14,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+14,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+14,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+14,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+14,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+14,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+14,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+14,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+14,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+14,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+14,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+14,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+14,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+14,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+14,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+14,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+14,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+14,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+14,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+15,"sys1 baseline","lmICP","Station5_mp_82",FALSE,TRUE
+15,"sys1 baseline","lmICP","Station5_mp_89",FALSE,TRUE
+15,"sys1 baseline","lmICP","Station5_mp_83",FALSE,TRUE
+15,"sys1 baseline","lmICP","Station5_mp_86",FALSE,TRUE
+15,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+15,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+15,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+15,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+15,"sys1 hide 82","lmICP","Station5_mp_89",TRUE,FALSE
+15,"sys1 hide 82","lmICP","Station5_mp_83",TRUE,FALSE
+15,"sys1 hide 82","lmICP","Station5_mp_86",TRUE,FALSE
+15,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+15,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+15,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+15,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+15,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+15,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+15,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+15,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+15,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+15,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+15,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+15,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+15,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+15,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+15,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+15,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+15,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+15,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+15,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+15,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+15,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+15,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+15,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+16,"sys1 baseline","lmICP","Station5_mp_82",FALSE,TRUE
+16,"sys1 baseline","lmICP","Station5_mp_89",FALSE,TRUE
+16,"sys1 baseline","lmICP","Station5_mp_83",FALSE,TRUE
+16,"sys1 baseline","lmICP","Station5_mp_86",FALSE,TRUE
+16,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+16,"sys1 baseline","rangerICP","Station5_mp_89",TRUE,FALSE
+16,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+16,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+16,"sys1 hide 82","lmICP","Station5_mp_89",TRUE,FALSE
+16,"sys1 hide 82","lmICP","Station5_mp_83",TRUE,FALSE
+16,"sys1 hide 82","lmICP","Station5_mp_86",TRUE,FALSE
+16,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+16,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+16,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+16,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+16,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+16,"sys1 hide 89","lmICP","Station5_mp_86",TRUE,FALSE
+16,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,TRUE
+16,"sys1 hide 89","rangerICP","Station5_mp_83",FALSE,TRUE
+16,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,TRUE
+16,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+16,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+16,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+16,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+16,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+16,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+16,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+16,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+16,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+16,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+16,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+16,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+16,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+16,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+17,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+17,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+17,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+17,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+17,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+17,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+17,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+17,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+17,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+17,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+17,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+17,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+17,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+17,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+17,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+17,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+17,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+17,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+17,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+17,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+17,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+17,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+17,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+17,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+17,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+17,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+17,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+17,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+17,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+18,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+18,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+18,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+18,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+18,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+18,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+18,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+18,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+18,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+18,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+18,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+18,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+18,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+18,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+18,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+18,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+18,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+18,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+18,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+18,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+18,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+18,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+18,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+18,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+18,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+18,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+18,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+18,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+18,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+19,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+19,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+19,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+19,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 baseline","rangerICP","Station5_mp_89",FALSE,FALSE
+19,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+19,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+19,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+19,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+19,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+19,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+19,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+19,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+19,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+19,"sys1 hide 89","lmICP","Station5_mp_86",FALSE,FALSE
+19,"sys1 hide 89","rangerICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 hide 89","rangerICP","Station5_mp_83",TRUE,FALSE
+19,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,FALSE
+19,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+19,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+19,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+19,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+19,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+19,"sys2 (U = 95)","lmICP","Station5_mp_90",FALSE,FALSE
+19,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+19,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+19,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+19,"sys2 (U = 95)","rangerICP","Station5_mp_90",FALSE,FALSE
+19,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+19,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+19,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
+20,"sys1 baseline","lmICP","Station5_mp_82",TRUE,FALSE
+20,"sys1 baseline","lmICP","Station5_mp_89",FALSE,FALSE
+20,"sys1 baseline","lmICP","Station5_mp_83",FALSE,FALSE
+20,"sys1 baseline","lmICP","Station5_mp_86",FALSE,FALSE
+20,"sys1 baseline","rangerICP","Station5_mp_82",TRUE,FALSE
+20,"sys1 baseline","rangerICP","Station5_mp_89",TRUE,FALSE
+20,"sys1 baseline","rangerICP","Station5_mp_83",FALSE,FALSE
+20,"sys1 baseline","rangerICP","Station5_mp_86",FALSE,FALSE
+20,"sys1 hide 82","lmICP","Station5_mp_89",FALSE,TRUE
+20,"sys1 hide 82","lmICP","Station5_mp_83",FALSE,TRUE
+20,"sys1 hide 82","lmICP","Station5_mp_86",FALSE,TRUE
+20,"sys1 hide 82","rangerICP","Station5_mp_89",FALSE,TRUE
+20,"sys1 hide 82","rangerICP","Station5_mp_83",FALSE,TRUE
+20,"sys1 hide 82","rangerICP","Station5_mp_86",FALSE,TRUE
+20,"sys1 hide 89","lmICP","Station5_mp_82",TRUE,FALSE
+20,"sys1 hide 89","lmICP","Station5_mp_83",TRUE,FALSE
+20,"sys1 hide 89","lmICP","Station5_mp_86",TRUE,FALSE
+20,"sys1 hide 89","rangerICP","Station5_mp_82",FALSE,TRUE
+20,"sys1 hide 89","rangerICP","Station5_mp_83",FALSE,TRUE
+20,"sys1 hide 89","rangerICP","Station5_mp_86",FALSE,TRUE
+20,"sys1 hide 83","lmICP","Station5_mp_82",TRUE,FALSE
+20,"sys1 hide 83","lmICP","Station5_mp_89",TRUE,FALSE
+20,"sys1 hide 83","lmICP","Station5_mp_86",FALSE,FALSE
+20,"sys1 hide 83","rangerICP","Station5_mp_82",TRUE,FALSE
+20,"sys1 hide 83","rangerICP","Station5_mp_89",TRUE,FALSE
+20,"sys1 hide 83","rangerICP","Station5_mp_86",FALSE,FALSE
+20,"sys2 (U = 95)","lmICP","Station5_mp_90",TRUE,FALSE
+20,"sys2 (U = 95)","lmICP","Station5_mp_97",TRUE,FALSE
+20,"sys2 (U = 95)","lmICP","Station5_mp_91",FALSE,FALSE
+20,"sys2 (U = 95)","lmICP","Station5_mp_93",FALSE,FALSE
+20,"sys2 (U = 95)","rangerICP","Station5_mp_90",TRUE,FALSE
+20,"sys2 (U = 95)","rangerICP","Station5_mp_97",TRUE,FALSE
+20,"sys2 (U = 95)","rangerICP","Station5_mp_91",FALSE,FALSE
+20,"sys2 (U = 95)","rangerICP","Station5_mp_93",FALSE,FALSE
